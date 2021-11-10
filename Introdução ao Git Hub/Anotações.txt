@@ -1,0 +1,4 @@
+Segue informações de Instalação do Git 
+
+1- Acesse o site oficial: https://git-scm.com/downloads e escolha a opção de seu sistema operacional.
+O Git Bash é um terminal extendido para otimizar o uso do Git.
